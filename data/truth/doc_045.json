@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Inkwell Print House",
+ "invoice_number": "A58162",
+ "issue_date": "2026-10-05",
+ "due_date": "2026-10-12",
+ "currency": "AUD",
+ "subtotal": 2864.63,
+ "discount": 286.46,
+ "shipping": 19.44,
+ "tax": 257.82,
+ "total": 2855.43,
+ "line_items": [
+  {
+   "description": "Brochures, 250",
+   "quantity": 5.0,
+   "unit_price": 259.01,
+   "amount": 1295.05
+  },
+  {
+   "description": "Flyers A5, 1,000",
+   "quantity": 4.0,
+   "unit_price": 133.15,
+   "amount": 532.6
+  },
+  {
+   "description": "Business cards, 500",
+   "quantity": 6.0,
+   "unit_price": 65.25,
+   "amount": 391.5
+  },
+  {
+   "description": "Roll-up banner",
+   "quantity": 4.0,
+   "unit_price": 161.37,
+   "amount": 645.48
+  }
+ ]
+}

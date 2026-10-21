@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Quickprint Hub",
+ "invoice_number": "A78943",
+ "issue_date": "2026-07-15",
+ "due_date": "2026-08-14",
+ "currency": "GBP",
+ "subtotal": 3503.55,
+ "discount": 0.0,
+ "shipping": 5.08,
+ "tax": 700.71,
+ "total": 4209.34,
+ "line_items": [
+  {
+   "description": "Business cards, 500",
+   "quantity": 8.0,
+   "unit_price": 67.44,
+   "amount": 539.52
+  },
+  {
+   "description": "Brochures, 250",
+   "quantity": 4.0,
+   "unit_price": 239.61,
+   "amount": 958.44
+  },
+  {
+   "description": "Flyers A5, 1,000",
+   "quantity": 3.0,
+   "unit_price": 120.73,
+   "amount": 362.19
+  },
+  {
+   "description": "Roll-up banner",
+   "quantity": 9.0,
+   "unit_price": 182.6,
+   "amount": 1643.4
+  }
+ ]
+}

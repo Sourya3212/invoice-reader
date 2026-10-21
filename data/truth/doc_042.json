@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Ledgerly Apps",
+ "invoice_number": "2026/0807",
+ "issue_date": "2026-07-09",
+ "due_date": "2026-07-23",
+ "currency": "EUR",
+ "subtotal": 3507.69,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 245.54,
+ "total": 3753.23,
+ "line_items": [
+  {
+   "description": "Onboarding session",
+   "quantity": 3.0,
+   "unit_price": 217.06,
+   "amount": 651.18
+  },
+  {
+   "description": "Additional user seat",
+   "quantity": 7.0,
+   "unit_price": 166.73,
+   "amount": 1167.11
+  },
+  {
+   "description": "Annual licence, standard plan",
+   "quantity": 2.0,
+   "unit_price": 389.64,
+   "amount": 779.28
+  },
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 2.0,
+   "unit_price": 455.06,
+   "amount": 910.12
+  }
+ ]
+}

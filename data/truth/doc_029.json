@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Ledgerly Apps",
+ "invoice_number": "INV-2026-5283",
+ "issue_date": "2026-09-27",
+ "due_date": "2026-10-11",
+ "currency": "EUR",
+ "subtotal": 1758.96,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 123.13,
+ "total": 1882.09,
+ "line_items": [
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 2.0,
+   "unit_price": 879.48,
+   "amount": 1758.96
+  }
+ ]
+}

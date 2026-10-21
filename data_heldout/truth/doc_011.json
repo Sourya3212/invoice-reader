@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Northgate Stationers",
+ "invoice_number": "A81285",
+ "issue_date": "2026-10-06",
+ "due_date": "2026-11-05",
+ "currency": "NPR",
+ "subtotal": 82915.3,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 10778.99,
+ "total": 93694.29,
+ "line_items": [
+  {
+   "description": "Desk organiser",
+   "quantity": 4.0,
+   "unit_price": 2624.7,
+   "amount": 10498.8
+  },
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 5.0,
+   "unit_price": 1730.3,
+   "amount": 8651.5
+  },
+  {
+   "description": "Toner cartridge",
+   "quantity": 4.0,
+   "unit_price": 14040.0,
+   "amount": 56160.0
+  },
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 3.0,
+   "unit_price": 2535.0,
+   "amount": 7605.0
+  }
+ ]
+}

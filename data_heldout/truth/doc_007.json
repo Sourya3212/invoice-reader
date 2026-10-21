@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Ledgerly Apps",
+ "invoice_number": "A66889",
+ "issue_date": "2026-10-07",
+ "due_date": "2026-10-21",
+ "currency": "EUR",
+ "subtotal": 3590.92,
+ "discount": 179.55,
+ "shipping": 0.0,
+ "tax": 238.8,
+ "total": 3650.17,
+ "line_items": [
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 4.0,
+   "unit_price": 419.95,
+   "amount": 1679.8
+  },
+  {
+   "description": "Onboarding session",
+   "quantity": 8.0,
+   "unit_price": 238.89,
+   "amount": 1911.12
+  }
+ ]
+}

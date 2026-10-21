@@ -1,0 +1,32 @@
+{
+ "vendor_name": "Inkwell Print House",
+ "invoice_number": "SO-37525",
+ "issue_date": "2026-07-03",
+ "due_date": "2026-08-02",
+ "currency": "NPR",
+ "subtotal": 339505.4,
+ "discount": 0.0,
+ "shipping": 1354.65,
+ "tax": 44135.7,
+ "total": 384995.75,
+ "line_items": [
+  {
+   "description": "Business cards, 500",
+   "quantity": 10.0,
+   "unit_price": 11468.6,
+   "amount": 114686.0
+  },
+  {
+   "description": "Flyers A5, 1,000",
+   "quantity": 3.0,
+   "unit_price": 16728.4,
+   "amount": 50185.2
+  },
+  {
+   "description": "Roll-up banner",
+   "quantity": 9.0,
+   "unit_price": 19403.8,
+   "amount": 174634.2
+  }
+ ]
+}

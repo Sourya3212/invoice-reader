@@ -1,0 +1,12 @@
+# Generated test documents: rebuild them with data_gen/generate.py (same seed, same documents and answers)
+data/docs/
+data_heldout/docs/
+# Run outputs except the reports
+results*/_text/
+results*/*/pred/
+results*/*/invoices.xlsx
+__pycache__/
+*.pyc
+.venv/
+# Your own practice runs
+results*/mine-*/

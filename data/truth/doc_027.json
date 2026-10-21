@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Paperplane Press",
+ "invoice_number": "INV-2026-0583",
+ "issue_date": "2026-07-15",
+ "due_date": "2026-07-29",
+ "currency": "NPR",
+ "subtotal": 218916.1,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 28459.09,
+ "total": 247375.19,
+ "line_items": [
+  {
+   "description": "Brochures, 250",
+   "quantity": 3.0,
+   "unit_price": 30854.2,
+   "amount": 92562.6
+  },
+  {
+   "description": "Business cards, 500",
+   "quantity": 5.0,
+   "unit_price": 6012.5,
+   "amount": 30062.5
+  },
+  {
+   "description": "Flyers A5, 1,000",
+   "quantity": 5.0,
+   "unit_price": 15830.1,
+   "amount": 79150.5
+  },
+  {
+   "description": "Roll-up banner",
+   "quantity": 1.0,
+   "unit_price": 17140.5,
+   "amount": 17140.5
+  }
+ ]
+}

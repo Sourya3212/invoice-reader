@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Harbor and Finch Consulting",
+ "invoice_number": "SO-22205",
+ "issue_date": "2026-10-10",
+ "due_date": "2026-11-09",
+ "currency": "NPR",
+ "subtotal": 1197595.1,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 155687.36,
+ "total": 1353282.46,
+ "line_items": [
+  {
+   "description": "Advisory call",
+   "quantity": 6.0,
+   "unit_price": 23389.6,
+   "amount": 140337.6
+  },
+  {
+   "description": "Payroll processing",
+   "quantity": 9.0,
+   "unit_price": 20667.4,
+   "amount": 186006.6
+  },
+  {
+   "description": "Monthly bookkeeping",
+   "quantity": 5.0,
+   "unit_price": 85239.7,
+   "amount": 426198.5
+  },
+  {
+   "description": "Tax return preparation",
+   "quantity": 4.0,
+   "unit_price": 111263.1,
+   "amount": 445052.4
+  }
+ ]
+}

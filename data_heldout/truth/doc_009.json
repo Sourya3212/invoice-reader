@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Cloudnest Software Ltd",
+ "invoice_number": "A96206",
+ "issue_date": "2026-09-09",
+ "due_date": "2026-10-24",
+ "currency": "AUD",
+ "subtotal": 4146.36,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 414.64,
+ "total": 4561.0,
+ "line_items": [
+  {
+   "description": "Additional user seat",
+   "quantity": 5.0,
+   "unit_price": 85.53,
+   "amount": 427.65
+  },
+  {
+   "description": "Annual licence, standard plan",
+   "quantity": 9.0,
+   "unit_price": 413.19,
+   "amount": 3718.71
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Paperplane Press",
+ "invoice_number": "SO-84632",
+ "issue_date": "2026-08-17",
+ "due_date": "2026-09-16",
+ "currency": "USD",
+ "subtotal": 1126.3,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 0.0,
+ "total": 1126.3,
+ "line_items": [
+  {
+   "description": "Roll-up banner",
+   "quantity": 7.0,
+   "unit_price": 160.9,
+   "amount": 1126.3
+  }
+ ]
+}

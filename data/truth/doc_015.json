@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Harbor and Finch Consulting",
+ "invoice_number": "2026/8108",
+ "issue_date": "2026-09-13",
+ "due_date": "2026-09-27",
+ "currency": "EUR",
+ "subtotal": 7324.38,
+ "discount": 732.44,
+ "shipping": 0.0,
+ "tax": 1252.47,
+ "total": 7844.41,
+ "line_items": [
+  {
+   "description": "Office deep clean",
+   "quantity": 6.0,
+   "unit_price": 257.45,
+   "amount": 1544.7
+  },
+  {
+   "description": "Tax return preparation",
+   "quantity": 8.0,
+   "unit_price": 722.46,
+   "amount": 5779.68
+  }
+ ]
+}

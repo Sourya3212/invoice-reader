@@ -1,0 +1,32 @@
+{
+ "vendor_name": "Summit Bookkeeping Services",
+ "invoice_number": "2026/7851",
+ "issue_date": "2026-09-27",
+ "due_date": "2026-11-11",
+ "currency": "EUR",
+ "subtotal": 2558.52,
+ "discount": 127.93,
+ "shipping": 0.0,
+ "tax": 461.81,
+ "total": 2892.4,
+ "line_items": [
+  {
+   "description": "Monthly bookkeeping",
+   "quantity": 3.0,
+   "unit_price": 597.17,
+   "amount": 1791.51
+  },
+  {
+   "description": "Payroll processing (hours)",
+   "quantity": 1.5,
+   "unit_price": 76.1,
+   "amount": 114.15
+  },
+  {
+   "description": "Office deep clean",
+   "quantity": 2.0,
+   "unit_price": 326.43,
+   "amount": 652.86
+  }
+ ]
+}

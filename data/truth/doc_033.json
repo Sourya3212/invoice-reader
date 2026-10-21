@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Summit Bookkeeping Services",
+ "invoice_number": "SO-11769",
+ "issue_date": "2026-08-06",
+ "due_date": "2026-09-20",
+ "currency": "NPR",
+ "subtotal": 390547.3,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 50771.15,
+ "total": 441318.45,
+ "line_items": [
+  {
+   "description": "Advisory call (hours)",
+   "quantity": 10.0,
+   "unit_price": 14196.0,
+   "amount": 141960.0
+  },
+  {
+   "description": "Office deep clean (hours)",
+   "quantity": 2.0,
+   "unit_price": 7438.6,
+   "amount": 14877.2
+  },
+  {
+   "description": "Monthly bookkeeping (hours)",
+   "quantity": 4.0,
+   "unit_price": 10117.9,
+   "amount": 40471.6
+  },
+  {
+   "description": "Payroll processing",
+   "quantity": 7.0,
+   "unit_price": 27605.5,
+   "amount": 193238.5
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Kestrel Paper Co.",
+ "invoice_number": "INV-2026-7804",
+ "issue_date": "2026-07-25",
+ "due_date": "2026-09-08",
+ "currency": "EUR",
+ "subtotal": 794.4,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 55.61,
+ "total": 850.01,
+ "line_items": [
+  {
+   "description": "Toner cartridge",
+   "quantity": 9.0,
+   "unit_price": 79.91,
+   "amount": 719.19
+  },
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 3.0,
+   "unit_price": 25.07,
+   "amount": 75.21
+  }
+ ]
+}

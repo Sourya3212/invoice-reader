@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Kestrel Paper Co.",
+ "invoice_number": "2026/9636",
+ "issue_date": "2026-09-21",
+ "due_date": "2026-10-21",
+ "currency": "GBP",
+ "subtotal": 68.15,
+ "discount": 3.41,
+ "shipping": 11.2,
+ "tax": 12.95,
+ "total": 88.89,
+ "line_items": [
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 2.0,
+   "unit_price": 12.25,
+   "amount": 24.5
+  },
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 5.0,
+   "unit_price": 8.73,
+   "amount": 43.65
+  }
+ ]
+}

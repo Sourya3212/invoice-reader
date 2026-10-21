@@ -1,0 +1,32 @@
+{
+ "vendor_name": "Harbor and Finch Consulting",
+ "invoice_number": "SO-45263",
+ "issue_date": "2026-09-27",
+ "due_date": "2026-10-04",
+ "currency": "AUD",
+ "subtotal": 484.08,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 48.41,
+ "total": 532.49,
+ "line_items": [
+  {
+   "description": "Office deep clean (hours)",
+   "quantity": 1.5,
+   "unit_price": 117.25,
+   "amount": 175.88
+  },
+  {
+   "description": "Advisory call (hours)",
+   "quantity": 3.5,
+   "unit_price": 54.64,
+   "amount": 191.24
+  },
+  {
+   "description": "Tax return preparation (hours)",
+   "quantity": 1.5,
+   "unit_price": 77.97,
+   "amount": 116.96
+  }
+ ]
+}

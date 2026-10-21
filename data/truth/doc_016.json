@@ -1,0 +1,44 @@
+{
+ "vendor_name": "Harbor and Finch Consulting",
+ "invoice_number": "2026/9197",
+ "issue_date": "2026-09-19",
+ "due_date": "2026-10-19",
+ "currency": "NPR",
+ "subtotal": 1022829.6,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 132967.85,
+ "total": 1155797.45,
+ "line_items": [
+  {
+   "description": "Tax return preparation",
+   "quantity": 6.0,
+   "unit_price": 61880.0,
+   "amount": 371280.0
+  },
+  {
+   "description": "Advisory call",
+   "quantity": 8.0,
+   "unit_price": 30598.1,
+   "amount": 244784.8
+  },
+  {
+   "description": "Payroll processing",
+   "quantity": 9.0,
+   "unit_price": 27690.0,
+   "amount": 249210.0
+  },
+  {
+   "description": "Monthly bookkeeping (hours)",
+   "quantity": 10.0,
+   "unit_price": 8637.2,
+   "amount": 86372.0
+  },
+  {
+   "description": "Office deep clean",
+   "quantity": 3.0,
+   "unit_price": 23727.6,
+   "amount": 71182.8
+  }
+ ]
+}

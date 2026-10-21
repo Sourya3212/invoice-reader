@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Himal Grocers",
+ "invoice_number": "R-50966",
+ "issue_date": "2026-08-08",
+ "due_date": null,
+ "currency": "USD",
+ "subtotal": 47.91,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 3.47,
+ "total": 51.38,
+ "line_items": [
+  {
+   "description": "Rice, 5 kg",
+   "quantity": 3.0,
+   "unit_price": 15.97,
+   "amount": 47.91
+  }
+ ]
+}

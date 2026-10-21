@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Quickprint Hub",
+ "invoice_number": "A67672",
+ "issue_date": "2026-08-14",
+ "due_date": "2026-09-13",
+ "currency": "AUD",
+ "subtotal": 2475.1,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 247.51,
+ "total": 2722.61,
+ "line_items": [
+  {
+   "description": "Brochures, 250",
+   "quantity": 10.0,
+   "unit_price": 142.51,
+   "amount": 1425.1
+  },
+  {
+   "description": "Roll-up banner",
+   "quantity": 7.0,
+   "unit_price": 150.0,
+   "amount": 1050.0
+  }
+ ]
+}

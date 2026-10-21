@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Paperplane Press",
+ "invoice_number": "2026/6441",
+ "issue_date": "2026-07-14",
+ "due_date": "2026-07-28",
+ "currency": "EUR",
+ "subtotal": 907.56,
+ "discount": 0.0,
+ "shipping": 17.51,
+ "tax": 63.53,
+ "total": 988.6,
+ "line_items": [
+  {
+   "description": "Roll-up banner",
+   "quantity": 3.0,
+   "unit_price": 124.52,
+   "amount": 373.56
+  },
+  {
+   "description": "Business cards, 500",
+   "quantity": 6.0,
+   "unit_price": 89.0,
+   "amount": 534.0
+  }
+ ]
+}

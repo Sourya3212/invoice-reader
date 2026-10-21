@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Kestrel Paper Co.",
+ "invoice_number": "INV-2026-2112",
+ "issue_date": "2026-08-28",
+ "due_date": "2026-09-11",
+ "currency": "AUD",
+ "subtotal": 431.77,
+ "discount": 0.0,
+ "shipping": 14.79,
+ "tax": 43.18,
+ "total": 489.74,
+ "line_items": [
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 9.0,
+   "unit_price": 34.57,
+   "amount": 311.13
+  },
+  {
+   "description": "Desk organiser",
+   "quantity": 9.0,
+   "unit_price": 9.01,
+   "amount": 81.09
+  },
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 1.0,
+   "unit_price": 27.91,
+   "amount": 27.91
+  },
+  {
+   "description": "Gel pens, box of 12",
+   "quantity": 1.0,
+   "unit_price": 11.64,
+   "amount": 11.64
+  }
+ ]
+}

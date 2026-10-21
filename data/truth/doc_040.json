@@ -1,0 +1,20 @@
+{
+ "vendor_name": "The Lunch Box",
+ "invoice_number": "3407-10",
+ "issue_date": "2026-08-22",
+ "due_date": null,
+ "currency": "NPR",
+ "subtotal": 855.4,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 111.2,
+ "total": 966.6,
+ "line_items": [
+  {
+   "description": "Green tea",
+   "quantity": 2.0,
+   "unit_price": 427.7,
+   "amount": 855.4
+  }
+ ]
+}

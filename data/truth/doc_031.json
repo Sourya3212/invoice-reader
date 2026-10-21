@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Summit Bookkeeping Services",
+ "invoice_number": "SO-42887",
+ "issue_date": "2026-08-19",
+ "due_date": "2026-10-03",
+ "currency": "USD",
+ "subtotal": 7761.04,
+ "discount": 776.1,
+ "shipping": 0.0,
+ "tax": 419.1,
+ "total": 7404.04,
+ "line_items": [
+  {
+   "description": "Office deep clean",
+   "quantity": 1.0,
+   "unit_price": 229.1,
+   "amount": 229.1
+  },
+  {
+   "description": "Advisory call",
+   "quantity": 5.0,
+   "unit_price": 204.01,
+   "amount": 1020.05
+  },
+  {
+   "description": "Monthly bookkeeping",
+   "quantity": 7.0,
+   "unit_price": 473.67,
+   "amount": 3315.69
+  },
+  {
+   "description": "Tax return preparation",
+   "quantity": 6.0,
+   "unit_price": 532.7,
+   "amount": 3196.2
+  }
+ ]
+}

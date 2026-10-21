@@ -1,0 +1,44 @@
+{
+ "vendor_name": "Brightline Office Supply",
+ "invoice_number": "INV-2026-5156",
+ "issue_date": "2026-07-22",
+ "due_date": "2026-07-29",
+ "currency": "NPR",
+ "subtotal": 40092.0,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 5211.96,
+ "total": 45303.96,
+ "line_items": [
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 5.0,
+   "unit_price": 903.5,
+   "amount": 4517.5
+  },
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 3.0,
+   "unit_price": 4210.7,
+   "amount": 12632.1
+  },
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 4.0,
+   "unit_price": 1856.4,
+   "amount": 7425.6
+  },
+  {
+   "description": "Desk organiser",
+   "quantity": 6.0,
+   "unit_price": 2177.5,
+   "amount": 13065.0
+  },
+  {
+   "description": "Gel pens, box of 12",
+   "quantity": 2.0,
+   "unit_price": 1225.9,
+   "amount": 2451.8
+  }
+ ]
+}

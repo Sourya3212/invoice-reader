@@ -1,0 +1,823 @@
+{
+ "documents": 30,
+ "groups": {
+  "all": {
+   "n": 30,
+   "field_accuracy": {
+    "vendor_name": 100.0,
+    "invoice_number": 100.0,
+    "issue_date": 100.0,
+    "due_date": 100.0,
+    "currency": 100.0,
+    "subtotal": 100.0,
+    "tax": 100.0,
+    "total": 100.0,
+    "discount": 100.0,
+    "shipping": 100.0
+   },
+   "fully_correct": 100.0,
+   "item_recall": 96.7,
+   "item_precision": 96.7
+  },
+  "digital": {
+   "n": 22,
+   "field_accuracy": {
+    "vendor_name": 100.0,
+    "invoice_number": 100.0,
+    "issue_date": 100.0,
+    "due_date": 100.0,
+    "currency": 100.0,
+    "subtotal": 100.0,
+    "tax": 100.0,
+    "total": 100.0,
+    "discount": 100.0,
+    "shipping": 100.0
+   },
+   "fully_correct": 100.0,
+   "item_recall": 95.3,
+   "item_precision": 95.3
+  },
+  "scan": {
+   "n": 8,
+   "field_accuracy": {
+    "vendor_name": 100.0,
+    "invoice_number": 100.0,
+    "issue_date": 100.0,
+    "due_date": 100.0,
+    "currency": 100.0,
+    "subtotal": 100.0,
+    "tax": 100.0,
+    "total": 100.0,
+    "discount": 100.0,
+    "shipping": 100.0
+   },
+   "fully_correct": 100.0,
+   "item_recall": 100.0,
+   "item_precision": 100.0
+  }
+ },
+ "review_queue": {
+  "wrong_documents": 0,
+  "wrong_and_flagged": 0,
+  "flagged": 1,
+  "flagged_key_fields_right": 1,
+  "false_alarms": 0,
+  "wrong_but_passed": [],
+  "item_errors_passed": [
+   "doc_017"
+  ]
+ },
+ "seconds_per_document": 10.49,
+ "per_doc": [
+  {
+   "doc_id": "doc_001",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    1,
+    1,
+    1
+   ],
+   "flagged": false,
+   "seconds": 7.92
+  },
+  {
+   "doc_id": "doc_002",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 9.35
+  },
+  {
+   "doc_id": "doc_003",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 11.71
+  },
+  {
+   "doc_id": "doc_004",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    6,
+    6,
+    6
+   ],
+   "flagged": false,
+   "seconds": 14.23
+  },
+  {
+   "doc_id": "doc_005",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    5,
+    5,
+    5
+   ],
+   "flagged": false,
+   "seconds": 13.42
+  },
+  {
+   "doc_id": "doc_006",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    1,
+    1,
+    1
+   ],
+   "flagged": false,
+   "seconds": 7.33
+  },
+  {
+   "doc_id": "doc_007",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    2,
+    2,
+    2
+   ],
+   "flagged": false,
+   "seconds": 9.29
+  },
+  {
+   "doc_id": "doc_008",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 11.88
+  },
+  {
+   "doc_id": "doc_009",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    2,
+    2,
+    2
+   ],
+   "flagged": false,
+   "seconds": 8.92
+  },
+  {
+   "doc_id": "doc_010",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 11.75
+  },
+  {
+   "doc_id": "doc_011",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 12.19
+  },
+  {
+   "doc_id": "doc_012",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    5,
+    5,
+    5
+   ],
+   "flagged": false,
+   "seconds": 13.28
+  },
+  {
+   "doc_id": "doc_013",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 10.03
+  },
+  {
+   "doc_id": "doc_014",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    5,
+    5,
+    5
+   ],
+   "flagged": false,
+   "seconds": 13.03
+  },
+  {
+   "doc_id": "doc_015",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    2,
+    2,
+    2
+   ],
+   "flagged": false,
+   "seconds": 9.18
+  },
+  {
+   "doc_id": "doc_016",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 10.73
+  },
+  {
+   "doc_id": "doc_017",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": false,
+   "items": [
+    0,
+    1,
+    1
+   ],
+   "flagged": false,
+   "seconds": 7.32
+  },
+  {
+   "doc_id": "doc_018",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    1,
+    1,
+    1
+   ],
+   "flagged": false,
+   "seconds": 7.69
+  },
+  {
+   "doc_id": "doc_019",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 10.93
+  },
+  {
+   "doc_id": "doc_020",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 13.27
+  },
+  {
+   "doc_id": "doc_021",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": false,
+   "items": [
+    1,
+    3,
+    3
+   ],
+   "flagged": true,
+   "seconds": 10.7
+  },
+  {
+   "doc_id": "doc_022",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    2,
+    2,
+    2
+   ],
+   "flagged": false,
+   "seconds": 9.36
+  },
+  {
+   "doc_id": "doc_023",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 10.56
+  },
+  {
+   "doc_id": "doc_024",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 11.25
+  },
+  {
+   "doc_id": "doc_025",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 12.2
+  },
+  {
+   "doc_id": "doc_026",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    1,
+    1,
+    1
+   ],
+   "flagged": false,
+   "seconds": 7.19
+  },
+  {
+   "doc_id": "doc_027",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 9.38
+  },
+  {
+   "doc_id": "doc_028",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    4,
+    4,
+    4
+   ],
+   "flagged": false,
+   "seconds": 11.74
+  },
+  {
+   "doc_id": "doc_029",
+   "kind": "digital",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    3,
+    3,
+    3
+   ],
+   "flagged": false,
+   "seconds": 10.32
+  },
+  {
+   "doc_id": "doc_030",
+   "kind": "scan",
+   "fields": {
+    "vendor_name": true,
+    "invoice_number": true,
+    "issue_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "discount": true,
+    "shipping": true
+   },
+   "fully_correct": true,
+   "all_right": true,
+   "items": [
+    2,
+    2,
+    2
+   ],
+   "flagged": false,
+   "seconds": 8.46
+  }
+ ]
+}

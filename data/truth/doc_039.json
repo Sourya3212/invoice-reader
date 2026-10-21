@@ -1,0 +1,50 @@
+{
+ "vendor_name": "Brightline Office Supply",
+ "invoice_number": "SO-58119",
+ "issue_date": "2026-07-28",
+ "due_date": "2026-08-04",
+ "currency": "GBP",
+ "subtotal": 1412.52,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 282.5,
+ "total": 1695.02,
+ "line_items": [
+  {
+   "description": "Desk organiser",
+   "quantity": 7.0,
+   "unit_price": 12.67,
+   "amount": 88.69
+  },
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 2.0,
+   "unit_price": 13.17,
+   "amount": 26.34
+  },
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 2.0,
+   "unit_price": 41.97,
+   "amount": 83.94
+  },
+  {
+   "description": "Gel pens, box of 12",
+   "quantity": 7.0,
+   "unit_price": 6.33,
+   "amount": 44.31
+  },
+  {
+   "description": "Toner cartridge",
+   "quantity": 8.0,
+   "unit_price": 117.76,
+   "amount": 942.08
+  },
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 9.0,
+   "unit_price": 25.24,
+   "amount": 227.16
+  }
+ ]
+}

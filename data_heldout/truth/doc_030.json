@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Corner Bean Cafe",
+ "invoice_number": "6555-56",
+ "issue_date": "2026-10-04",
+ "due_date": null,
+ "currency": "GBP",
+ "subtotal": 59.22,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 11.84,
+ "total": 71.06,
+ "line_items": [
+  {
+   "description": "Rice, 5 kg",
+   "quantity": 3.0,
+   "unit_price": 13.97,
+   "amount": 41.91
+  },
+  {
+   "description": "Latte",
+   "quantity": 3.0,
+   "unit_price": 5.77,
+   "amount": 17.31
+  }
+ ]
+}

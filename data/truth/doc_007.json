@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Daily Fresh Mart",
+ "invoice_number": "R-55852",
+ "issue_date": "2026-08-19",
+ "due_date": null,
+ "currency": "GBP",
+ "subtotal": 36.01,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 7.2,
+ "total": 43.21,
+ "line_items": [
+  {
+   "description": "Bottled water",
+   "quantity": 3.0,
+   "unit_price": 1.35,
+   "amount": 4.05
+  },
+  {
+   "description": "Sandwich",
+   "quantity": 4.0,
+   "unit_price": 7.99,
+   "amount": 31.96
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Cloudnest Software Ltd",
+ "invoice_number": "SO-57054",
+ "issue_date": "2026-09-01",
+ "due_date": "2026-10-16",
+ "currency": "AUD",
+ "subtotal": 5865.92,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 586.59,
+ "total": 6452.51,
+ "line_items": [
+  {
+   "description": "Annual licence, standard plan",
+   "quantity": 2.0,
+   "unit_price": 571.91,
+   "amount": 1143.82
+  },
+  {
+   "description": "Onboarding session",
+   "quantity": 6.0,
+   "unit_price": 286.52,
+   "amount": 1719.12
+  },
+  {
+   "description": "Additional user seat",
+   "quantity": 9.0,
+   "unit_price": 158.52,
+   "amount": 1426.68
+  },
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 2.0,
+   "unit_price": 788.15,
+   "amount": 1576.3
+  }
+ ]
+}

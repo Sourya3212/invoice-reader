@@ -1,0 +1,9 @@
+# Python 3.11+. Also needs Tesseract OCR (https://github.com/tesseract-ocr/tesseract) for scanned documents,
+# and Ollama (https://ollama.com) with a local model for the AI extractor (default: qwen3.5:9b).
+pymupdf>=1.24
+pytesseract>=0.3.10
+pillow>=10
+numpy>=1.26
+pydantic>=2.5
+openpyxl>=3.1
+requests>=2.31

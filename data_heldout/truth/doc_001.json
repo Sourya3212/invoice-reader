@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Brightline Office Supply",
+ "invoice_number": "INV-2026-8780",
+ "issue_date": "2026-09-22",
+ "due_date": "2026-10-06",
+ "currency": "EUR",
+ "subtotal": 196.28,
+ "discount": 19.63,
+ "shipping": 16.31,
+ "tax": 33.56,
+ "total": 226.52,
+ "line_items": [
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 7.0,
+   "unit_price": 28.04,
+   "amount": 196.28
+  }
+ ]
+}

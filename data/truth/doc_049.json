@@ -1,0 +1,26 @@
+{
+ "vendor_name": "Northgate Stationers",
+ "invoice_number": "INV-2026-5759",
+ "issue_date": "2026-09-02",
+ "due_date": "2026-09-09",
+ "currency": "EUR",
+ "subtotal": 107.42,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 7.52,
+ "total": 114.94,
+ "line_items": [
+  {
+   "description": "Toner cartridge",
+   "quantity": 1.0,
+   "unit_price": 83.34,
+   "amount": 83.34
+  },
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 2.0,
+   "unit_price": 12.04,
+   "amount": 24.08
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "vendor_name": "Brightline Office Supply",
+ "invoice_number": "SO-99291",
+ "issue_date": "2026-08-30",
+ "due_date": "2026-09-29",
+ "currency": "EUR",
+ "subtotal": 848.75,
+ "discount": 0.0,
+ "shipping": 13.61,
+ "tax": 59.41,
+ "total": 921.77,
+ "line_items": [
+  {
+   "description": "Toner cartridge",
+   "quantity": 10.0,
+   "unit_price": 53.78,
+   "amount": 537.8
+  },
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 1.0,
+   "unit_price": 15.93,
+   "amount": 15.93
+  },
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 5.0,
+   "unit_price": 21.1,
+   "amount": 105.5
+  },
+  {
+   "description": "Gel pens, box of 12",
+   "quantity": 4.0,
+   "unit_price": 9.58,
+   "amount": 38.32
+  },
+  {
+   "description": "Desk organiser",
+   "quantity": 8.0,
+   "unit_price": 10.29,
+   "amount": 82.32
+  },
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 8.0,
+   "unit_price": 8.61,
+   "amount": 68.88
+  }
+ ]
+}

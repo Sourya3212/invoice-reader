@@ -1,0 +1,44 @@
+{
+ "vendor_name": "Harbor and Finch Consulting",
+ "invoice_number": "SO-62200",
+ "issue_date": "2026-07-19",
+ "due_date": "2026-08-02",
+ "currency": "EUR",
+ "subtotal": 4571.07,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 868.5,
+ "total": 5439.57,
+ "line_items": [
+  {
+   "description": "Payroll processing (hours)",
+   "quantity": 2.0,
+   "unit_price": 68.53,
+   "amount": 137.06
+  },
+  {
+   "description": "Advisory call (hours)",
+   "quantity": 3.5,
+   "unit_price": 41.56,
+   "amount": 145.46
+  },
+  {
+   "description": "Office deep clean",
+   "quantity": 8.0,
+   "unit_price": 348.76,
+   "amount": 2790.08
+  },
+  {
+   "description": "Tax return preparation (hours)",
+   "quantity": 7.5,
+   "unit_price": 89.91,
+   "amount": 674.33
+  },
+  {
+   "description": "Monthly bookkeeping",
+   "quantity": 2.0,
+   "unit_price": 412.07,
+   "amount": 824.14
+  }
+ ]
+}

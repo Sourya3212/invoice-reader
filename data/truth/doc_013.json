@@ -1,0 +1,32 @@
+{
+ "vendor_name": "Daily Fresh Mart",
+ "invoice_number": "1731-60",
+ "issue_date": "2026-09-28",
+ "due_date": null,
+ "currency": "GBP",
+ "subtotal": 41.26,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 8.25,
+ "total": 49.51,
+ "line_items": [
+  {
+   "description": "Rice, 5 kg",
+   "quantity": 1.0,
+   "unit_price": 8.68,
+   "amount": 8.68
+  },
+  {
+   "description": "Muffin",
+   "quantity": 4.0,
+   "unit_price": 3.0,
+   "amount": 12.0
+  },
+  {
+   "description": "Sandwich",
+   "quantity": 3.0,
+   "unit_price": 6.86,
+   "amount": 20.58
+  }
+ ]
+}

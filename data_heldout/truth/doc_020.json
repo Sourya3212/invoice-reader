@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Quickprint Hub",
+ "invoice_number": "SO-38533",
+ "issue_date": "2026-07-02",
+ "due_date": "2026-08-01",
+ "currency": "NPR",
+ "subtotal": 224364.4,
+ "discount": 22436.44,
+ "shipping": 0.0,
+ "tax": 26250.63,
+ "total": 228178.59,
+ "line_items": [
+  {
+   "description": "Roll-up banner",
+   "quantity": 2.0,
+   "unit_price": 24603.8,
+   "amount": 49207.6
+  },
+  {
+   "description": "Flyers A5, 1,000",
+   "quantity": 9.0,
+   "unit_price": 10390.9,
+   "amount": 93518.1
+  },
+  {
+   "description": "Brochures, 250",
+   "quantity": 2.0,
+   "unit_price": 37508.9,
+   "amount": 75017.8
+  },
+  {
+   "description": "Business cards, 500",
+   "quantity": 1.0,
+   "unit_price": 6620.9,
+   "amount": 6620.9
+  }
+ ]
+}

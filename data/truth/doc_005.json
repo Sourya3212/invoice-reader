@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Daily Fresh Mart",
+ "invoice_number": "R-11166",
+ "issue_date": "2026-09-27",
+ "due_date": null,
+ "currency": "NPR",
+ "subtotal": 1372.8,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 178.46,
+ "total": 1551.26,
+ "line_items": [
+  {
+   "description": "Green tea",
+   "quantity": 3.0,
+   "unit_price": 457.6,
+   "amount": 1372.8
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "vendor_name": "The Lunch Box",
+ "invoice_number": "R-63517",
+ "issue_date": "2026-08-29",
+ "due_date": null,
+ "currency": "EUR",
+ "subtotal": 12.66,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 0.89,
+ "total": 13.55,
+ "line_items": [
+  {
+   "description": "Muffin",
+   "quantity": 3.0,
+   "unit_price": 4.22,
+   "amount": 12.66
+  }
+ ]
+}

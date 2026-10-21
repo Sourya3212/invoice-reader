@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Corner Bean Cafe",
+ "invoice_number": "R-46371",
+ "issue_date": "2026-07-08",
+ "due_date": null,
+ "currency": "USD",
+ "subtotal": 29.9,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 0.0,
+ "total": 29.9,
+ "line_items": [
+  {
+   "description": "Rice, 5 kg",
+   "quantity": 2.0,
+   "unit_price": 14.95,
+   "amount": 29.9
+  }
+ ]
+}

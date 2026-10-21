@@ -1,0 +1,20 @@
+{
+ "vendor_name": "Daily Fresh Mart",
+ "invoice_number": "R-40901",
+ "issue_date": "2026-08-09",
+ "due_date": null,
+ "currency": "NPR",
+ "subtotal": 3580.2,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 465.43,
+ "total": 4045.63,
+ "line_items": [
+  {
+   "description": "Sandwich",
+   "quantity": 3.0,
+   "unit_price": 1193.4,
+   "amount": 3580.2
+  }
+ ]
+}

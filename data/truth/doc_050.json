@@ -1,0 +1,44 @@
+{
+ "vendor_name": "Kestrel Paper Co.",
+ "invoice_number": "INV-2026-6874",
+ "issue_date": "2026-09-26",
+ "due_date": "2026-10-10",
+ "currency": "EUR",
+ "subtotal": 509.37,
+ "discount": 50.94,
+ "shipping": 14.97,
+ "tax": 87.1,
+ "total": 560.5,
+ "line_items": [
+  {
+   "description": "Desk organiser",
+   "quantity": 1.0,
+   "unit_price": 19.64,
+   "amount": 19.64
+  },
+  {
+   "description": "Whiteboard markers, 8 pack",
+   "quantity": 8.0,
+   "unit_price": 12.41,
+   "amount": 99.28
+  },
+  {
+   "description": "A4 copy paper, 5 reams",
+   "quantity": 6.0,
+   "unit_price": 24.23,
+   "amount": 145.38
+  },
+  {
+   "description": "Gel pens, box of 12",
+   "quantity": 6.0,
+   "unit_price": 6.51,
+   "amount": 39.06
+  },
+  {
+   "description": "Stapler, heavy duty",
+   "quantity": 7.0,
+   "unit_price": 29.43,
+   "amount": 206.01
+  }
+ ]
+}

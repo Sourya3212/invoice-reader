@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Cloudnest Software Ltd",
+ "invoice_number": "A62614",
+ "issue_date": "2026-07-11",
+ "due_date": "2026-08-25",
+ "currency": "EUR",
+ "subtotal": 5147.26,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 360.31,
+ "total": 5507.57,
+ "line_items": [
+  {
+   "description": "Annual licence, standard plan",
+   "quantity": 2.0,
+   "unit_price": 895.04,
+   "amount": 1790.08
+  },
+  {
+   "description": "Additional user seat",
+   "quantity": 4.0,
+   "unit_price": 117.36,
+   "amount": 469.44
+  },
+  {
+   "description": "Onboarding session",
+   "quantity": 3.0,
+   "unit_price": 258.48,
+   "amount": 775.44
+  },
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 6.0,
+   "unit_price": 352.05,
+   "amount": 2112.3
+  }
+ ]
+}

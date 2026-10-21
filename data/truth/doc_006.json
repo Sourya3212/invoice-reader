@@ -1,0 +1,44 @@
+{
+ "vendor_name": "Bluepine Cleaning Co.",
+ "invoice_number": "SO-76897",
+ "issue_date": "2026-07-07",
+ "due_date": "2026-08-06",
+ "currency": "USD",
+ "subtotal": 4804.13,
+ "discount": 240.21,
+ "shipping": 0.0,
+ "tax": 405.05,
+ "total": 4968.97,
+ "line_items": [
+  {
+   "description": "Office deep clean",
+   "quantity": 10.0,
+   "unit_price": 328.47,
+   "amount": 3284.7
+  },
+  {
+   "description": "Tax return preparation (hours)",
+   "quantity": 7.5,
+   "unit_price": 81.57,
+   "amount": 611.78
+  },
+  {
+   "description": "Payroll processing (hours)",
+   "quantity": 3.5,
+   "unit_price": 76.71,
+   "amount": 268.49
+  },
+  {
+   "description": "Monthly bookkeeping (hours)",
+   "quantity": 10.0,
+   "unit_price": 45.56,
+   "amount": 455.6
+  },
+  {
+   "description": "Advisory call (hours)",
+   "quantity": 2.0,
+   "unit_price": 91.78,
+   "amount": 183.56
+  }
+ ]
+}

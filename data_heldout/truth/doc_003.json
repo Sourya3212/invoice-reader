@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Ledgerly Apps",
+ "invoice_number": "SO-49354",
+ "issue_date": "2026-10-10",
+ "due_date": "2026-11-09",
+ "currency": "AUD",
+ "subtotal": 10458.51,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 1045.85,
+ "total": 11504.36,
+ "line_items": [
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 9.0,
+   "unit_price": 550.87,
+   "amount": 4957.83
+  },
+  {
+   "description": "Additional user seat",
+   "quantity": 6.0,
+   "unit_price": 78.24,
+   "amount": 469.44
+  },
+  {
+   "description": "Annual licence, standard plan",
+   "quantity": 8.0,
+   "unit_price": 543.62,
+   "amount": 4348.96
+  },
+  {
+   "description": "Onboarding session",
+   "quantity": 2.0,
+   "unit_price": 341.14,
+   "amount": 682.28
+  }
+ ]
+}

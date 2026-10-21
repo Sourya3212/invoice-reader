@@ -1,0 +1,38 @@
+{
+ "vendor_name": "Pixelgrid Studio",
+ "invoice_number": "2026/1585",
+ "issue_date": "2026-08-23",
+ "due_date": "2026-09-06",
+ "currency": "USD",
+ "subtotal": 12006.3,
+ "discount": 0.0,
+ "shipping": 0.0,
+ "tax": 0.0,
+ "total": 12006.3,
+ "line_items": [
+  {
+   "description": "Priority support, 12 months",
+   "quantity": 9.0,
+   "unit_price": 815.92,
+   "amount": 7343.28
+  },
+  {
+   "description": "Annual licence, standard plan",
+   "quantity": 6.0,
+   "unit_price": 668.0,
+   "amount": 4008.0
+  },
+  {
+   "description": "Onboarding session",
+   "quantity": 2.0,
+   "unit_price": 171.65,
+   "amount": 343.3
+  },
+  {
+   "description": "Additional user seat",
+   "quantity": 4.0,
+   "unit_price": 77.93,
+   "amount": 311.72
+  }
+ ]
+}
